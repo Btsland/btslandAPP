@@ -9,6 +9,7 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
     private ImageView ivNavUser ;
+    int i;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
